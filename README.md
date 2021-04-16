@@ -1,4 +1,8 @@
 ## PhyNetLab
+![Pytask_Screenshot](images/pytask.png)
+
+The problem statement and the dataset of the problem is attached in the files.
+
 After studying the dataset, I understood it is a classication problem. I used Random Forrest Classifier to train my model. This can also be done using other classification algorithms such as 
 1. XGboost
 2. K Nearest Neighbour. 
